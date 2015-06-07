@@ -31,3 +31,4 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Fill in your answer here
+How is the staging area different from the working directory and the repository? What value do you think it offers?
